@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(to top,rgb(39, 0, 0),rgb(75, 0, 0),rgb(104, 0, 0));
+  background-image: linear-gradient(to top,rgb(173, 173, 8),rgb(15, 190, 18),rgb(48, 5, 101));
   margin: 0;
   height: 100vh;
  background-attachment: fixed;
@@ -27,7 +27,7 @@ body{
     height: 45px;
     display: flex;
     justify-content: center;
-    color: rgb(255, 255, 255);
+    color: rgb(253, 4, 245);
     flex-wrap: wrap;
     align-content: center;
 }
@@ -41,7 +41,7 @@ body{
   left: 0;
   font-size: large;
   display: flex;
-  color: cornsilk;
+  color: rgb(218, 7, 7);
   justify-content: center;
   flex-wrap: wrap;
   align-content: flex-end;
@@ -58,10 +58,10 @@ p {
 .atencao{
   width: 100%;
   height: 95px;
-  background-color: rgb(104, 21, 0);
+  background-color: rgb(6, 86, 156);
   position: absolute;
   top: 90px;
-  color: rgb(255, 255, 255);
+  color: rgb(246, 7, 7);
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -79,7 +79,7 @@ p {
   height: 60px;
   display: flex;
   justify-content: center;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 0, 0);
   flex-wrap: nowrap;
   align-content: center;
   flex-direction: row-reverse;
@@ -104,12 +104,12 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background: rgb(138, 0, 0);
-  color: rgb(255, 255, 255);
+  background: rgb(6, 77, 147);
+  color: rgb(6, 98, 117);
 }
   
 p {
-color: white;
+color: rgb(214, 7, 237);
 font-family: 'arial';
 text-align: center;
 margin-top: 50px;
@@ -126,7 +126,7 @@ font-size: 1.4em;
   height: 60px;
   display: flex;
   justify-content: center;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 3, 3);
   flex-wrap: nowrap;
   align-content: center;
   flex-direction: row;
